@@ -1,2 +1,4 @@
-"# sdp_dec_2018" 
-"# sdp_dec_2018" 
+Presentations and code samples from SDP conference.
+
+http://www.seladeveloperpractice.com/
+
